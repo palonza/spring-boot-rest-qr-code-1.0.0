@@ -1,0 +1,1 @@
+# spring-boot-rest-qr-code-1.0.0
